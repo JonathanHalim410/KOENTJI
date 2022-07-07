@@ -1,5 +1,5 @@
 # Smart-Security-Lock
-A smart system for home security lock where you can open the lock with RFID Card or using a mobile application
+A smart system for home security lock where you can open the lock with RFID Card or using a mobile application.
 
 Hardware used in this project:
 - ESP32
